@@ -1,0 +1,105 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Srka Image Widget\n"
+"POT-Creation-Date: 2013-06-23 12:09+0100\n"
+"PO-Revision-Date: 2013-06-23 12:09+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: _e;__;esc_attr_e;esc_attr__;esc_html_e;esc_html__\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: class-srka-image-widget.php:20
+msgid "Image"
+msgstr ""
+
+#: class-srka-image-widget.php:24
+msgid "Display an image"
+msgstr ""
+
+#: class-srka-image-widget.php:188
+msgid "Title:"
+msgstr ""
+
+#: class-srka-image-widget.php:194
+msgid "Choose an Image for the Widget"
+msgstr ""
+
+#: class-srka-image-widget.php:195
+msgid "Update Image"
+msgstr ""
+
+#: class-srka-image-widget.php:204
+msgid "Choose an Image"
+msgstr ""
+
+#: class-srka-image-widget.php:212
+msgid "These fields are here to maintain your data from an earlier version."
+msgstr ""
+
+#: class-srka-image-widget.php:215
+msgid ""
+"Select an image, then clear these values, and they will disappear when you "
+"save the widget."
+msgstr ""
+
+#: class-srka-image-widget.php:220
+msgid "Image URL:"
+msgstr ""
+
+#: class-srka-image-widget.php:224
+msgid "Alternate Text:"
+msgstr ""
+
+#: class-srka-image-widget.php:238
+msgid "Size:"
+msgstr ""
+
+#: class-srka-image-widget.php:257
+msgid "Image Link:"
+msgstr ""
+
+#: class-srka-image-widget.php:263 class-srka-image-widget.php:278
+msgid "Open in new window?"
+msgstr ""
+
+#: class-srka-image-widget.php:272
+msgid "Link:"
+msgstr ""
+
+#: class-srka-image-widget.php:287
+msgid "Link Text:"
+msgstr ""
+
+#: class-srka-image-widget.php:296
+msgid "Text:"
+msgstr ""
+
+#: class-srka-image-widget.php:376 srka-image-widget.php:85
+#: srka-image-widget.php:186
+msgid "Full Size"
+msgstr ""
+
+#: srka-image-widget.php:83
+msgid "Choose an Attachment"
+msgstr ""
+
+#: srka-image-widget.php:84
+msgid "Update Attachment"
+msgstr ""
+
+#: srka-image-widget.php:183
+msgid "Thumbnail"
+msgstr ""
+
+#: srka-image-widget.php:184
+msgid "Medium"
+msgstr ""
+
+#: srka-image-widget.php:185
+msgid "Large"
+msgstr ""
