@@ -12,4 +12,5 @@ Changes:
 Modified my [Srdjan Stojiljkovic](http://twitter.com/websrka)
 Built by [Brady Vercher](http://twitter.com/bradyvercher)  
 Copyright 2013  Srdjan Stojiljkovic
+
 Original plugin (Simple Image Widget) Copyright 2012  Blazer Six, Inc.(http://www.blazersix.com/)
